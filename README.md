@@ -1,0 +1,2 @@
+# Threat-Protection-CWPP-MindMap
+The following tool link below can be used to explore Defender for Cloud's - Cloud Workload Platform Protection (CWPP) core services it can cover and capabilities. While not exhaustive to every detection it provides a learning tool Mind Map to help explore each set of services covered under threat protection, capabilities with detailed notes, and links to reference alerts or unique blogs or scenarios written about.
