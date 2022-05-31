@@ -1,0 +1,7 @@
+Change History
+
+5/30/2022: fixed additional reference links, reworked threat intel, added notes on network detections, updated vuln assessment notes on containers
+
+2/3/2022: Added Provide Feedback link ? Updated unique detections count, fixed a few reference links
+
+4/19/2020: Earliest reference to Mind Map being created
