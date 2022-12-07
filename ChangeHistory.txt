@@ -1,5 +1,7 @@
 Change History
 
+12/7/2022: added Def for DevOps, expanded def cosmos db types of alerts
+
 7/5/2022: added instruments section under threat intellegence - dark markey, honeypots, detonations ect.
 
 5/30/2022: fixed additional reference links, reworked threat intel, added notes on network detections, updated vuln assessment notes on containers
