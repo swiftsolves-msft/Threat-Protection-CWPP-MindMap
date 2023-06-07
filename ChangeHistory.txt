@@ -1,5 +1,7 @@
 Change History
 
+6/6/2023: combined DevOps tools into Defender for DevOps, updated tools from MSDO.
+
 5/16/2023: added DevOps threat matrix link
 
 4/25/2023: added Defender for API
