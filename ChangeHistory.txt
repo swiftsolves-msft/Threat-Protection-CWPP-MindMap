@@ -1,5 +1,7 @@
 Change History
 
+9/7/2023: Added Storage Services Threat Matrix link to Defender for Storage notes
+
 6/6/2023: combined DevOps tools into Defender for DevOps, updated tools from MSDO.
 
 5/16/2023: added DevOps threat matrix link
