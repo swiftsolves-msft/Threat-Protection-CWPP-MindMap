@@ -1,5 +1,7 @@
 Change History
 
+11/6/2023: Added VM Extensions, reorganized and added defender for server p2, placed dns and vm extensions into.
+
 9/7/2023: Added Storage Services Threat Matrix link to Defender for Storage notes
 
 6/6/2023: combined DevOps tools into Defender for DevOps, updated tools from MSDO.
