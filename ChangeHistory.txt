@@ -1,5 +1,7 @@
 Change History
 
+11/28/2023: Added Bllom Filter Multivariate into ANaomaly Detection with a link to article and a brief note on detection method.
+
 11/6/2023: Added VM Extensions, reorganized and added defender for server p2 child item, placed dns, virt network layer, and vm extensions into D4S P2, Updated Defender for DevOps removed CredScan tool per change in Sept.
 
 9/7/2023: Added Storage Services Threat Matrix link to Defender for Storage notes
