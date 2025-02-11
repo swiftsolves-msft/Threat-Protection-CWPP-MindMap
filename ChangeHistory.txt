@@ -1,5 +1,7 @@
 Change History
 
+2/11/2025: Reworked Defender for Containers detections, added section for Binary drift, updated vul cluster runtime details, added Threat Protection for AI(Preview)
+
 1/9/2024: Reworked Vuln Scanning for Containers information (MDVM), added a few more threat detections for Defender for API, included some updated links in both spots as well.
 
 11/28/2023: Added Bllom Filter Multivariate into ANaomaly Detection with a link to article and a brief note on detection method.
